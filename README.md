@@ -1,50 +1,7 @@
-# Project Submission Template
 
-## 📁 Repository Structure
 
-Below is an example repository structure to help you to navigate through the various segments and files for your chosen project:
-
-- `/project_name/`
-    - `src/`
-        - `notebooks/`
-            - `notebook1.ipynb`
-            - `notebook2.ipynb`
-            - `...`
-        - `scripts/`
-            - `script1.py`
-            - `script2.py`
-            - `...`
-    - `data/` 
-        - `raw/`
-        - `processed/`
-        - `...`
-    - `docs/`
-        - `report.pdf`
-        - `presentation.pptx`
-        - `...`
-    - `results/`
-        - `figures/`
-        - `tables/`
-    - `tests/`
-        - `test_script1.py`
-        - `...`
-    - `.gitignore`
-    - `LICENSE`
-    - `README.md`
-
-##Data availability
+###Data availability
 The data folder is not included in the link repository due to GitHub file size limitations. It can be accessed at the following link: https://drive.google.com/drive/folders/1hJuIa22borVOM2XFSwqAo4mLoxQkP54E?usp=sharing
-**Explanation of the structure:**
-
-- `src/`: Contains all the source code files.
-- `data/`: Contains all the data used in the project.
-- `docs/`: Contains documentation like reports and presentations.
-- `results/`: Contains the outputs of your analyses.
-- `tests/`: Contains testing scripts.
-- `.gitignore`: Lists files/directories to ignore.
-- `LICENSE`: Contains the license information.
-- `README.md`: This file, containing information about the project.
-
 
 ###Project Title
 
